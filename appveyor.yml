@@ -1,5 +1,7 @@
 platform: x64
-
+build_cloud: DESKTOP-HVG59DR
+image: Windows
+clone_folder: c:\projects
 environment:
   matrix:
     - compiler: msys2
